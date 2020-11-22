@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Down The Memory Lane</string>
+    <string name="title_activity_memory_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
